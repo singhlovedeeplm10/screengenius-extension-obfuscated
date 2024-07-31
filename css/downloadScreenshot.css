@@ -967,3 +967,15 @@ input#font-size {
     width: 20px !important;
     height: 20px !important;
 }
+
+.highlight-pallette-font-color {
+    float: left;
+    margin: 5px;
+}
+.highlight-pallette-font-color span {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    cursor: pointer;
+    margin: 0px 1px;
+}
