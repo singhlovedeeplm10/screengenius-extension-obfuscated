@@ -1593,3 +1593,9 @@ span#dimensions-message {
         margin: auto
     }
 }
+#SG_floatable-recorder-tool-container, #SG_recorder-wait-overlay, #SG_floatable-recorder-camera-container, #SG_floatable-recorder-tool, #SG_selected-screen-capture{
+    z-index: 9999999 !important;
+}
+#SG_draw-recording-anno{
+    z-index: 9999998 !important;
+}
