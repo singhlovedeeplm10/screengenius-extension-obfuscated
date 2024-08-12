@@ -1459,8 +1459,8 @@ span#dimensions-message {
     gap: 10px;
 }
 #SG_savebutton{
-    border: 1px solid #007bff;
-    background-color: #007bff;
+    border: 1px solid #000;
+    background-color: #000;
     width: 32%;
     color: white;
     border-radius: 5px;
@@ -1468,8 +1468,8 @@ span#dimensions-message {
 }
 #SG_cancelbutton{
     background-color: white;
-    border: 2px solid #007bff;
-    color: #007bff;
+    border: 2px solid #000;
+    color: #000;
     width: 32%;
     border-radius: 5px;
     height: 30px;
