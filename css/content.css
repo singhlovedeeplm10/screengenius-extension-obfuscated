@@ -1599,3 +1599,7 @@ span#dimensions-message {
 #SG_draw-recording-anno{
     z-index: 9999998 !important;
 }
+
+.SG_effect-child-options{
+    width: 220px !important;
+}

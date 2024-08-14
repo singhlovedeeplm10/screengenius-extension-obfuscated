@@ -91,6 +91,9 @@ span.SG_success-description,span.SG_failure-description {
     letter-spacing: 1px;
     line-height: 20px !important;
 }
+.add-title-form{
+    margin-bottom: 5px; 
+}
 .social-share-form
 {
     margin: 20px 0px 10px 0px;
@@ -127,6 +130,17 @@ span.SG_success-description,span.SG_failure-description {
     width: 100%;
     text-align: center;
     margin-top: 10px;
+}
+.add-title-form{
+    margin-top: 5px;
+}
+.add-title-submit{
+    margin-top: 0px;
+}
+#tag-search{margin-bottom: 2px;}
+.add-title-heading span{margin-top: 1px;}
+.OCR_message-counter{
+    margin: 0px;
 }
 .SG_message-counter{
     margin: 0px;
